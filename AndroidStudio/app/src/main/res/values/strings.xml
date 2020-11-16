@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">영양이1</string>
+    <string name="title_activity_register">RegisterActivity</string>
+</resources>
